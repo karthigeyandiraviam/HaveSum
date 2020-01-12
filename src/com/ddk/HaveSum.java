@@ -45,14 +45,20 @@ class HaveSum {
     public boolean findHaveSum() {
         int start = 0;
         int end = numbers.size() - 1;
+        HashSet prevSum = new HashSet();
+
         while (start < end) {
-            if ( numbers.get(start) + numbers.get(end) == sum ) {
+            int currSum = numbers.get(start) + numbers.get(end);
+            if ( prevSum.contains(currSum) ) {
                 System.out.println("numbers[" + start + "]=" + numbers.get(start) + " and numbers[" + end + "]=" + numbers.get(end));
                 return true;
-            } else if ( numbers.get(start) + numbers.get(end) > sum )
-                end--;
-            else if ( numbers.get(start) + numbers.get(end) < sum )
-                start++;
+            } else {
+                prevSum.add(currSum);
+                if ( currSum > sum )
+                    end--;
+                else if ( currSum < sum )
+                    start++;
+            }
         }
         return false;
     }
