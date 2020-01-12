@@ -42,24 +42,24 @@ class HaveSum {
         System.out.println(sum);
     }
 
-    public boolean findHaveSum() {
-        int start = 0;
-        int end = numbers.size() - 1;
-        HashSet prevSum = new HashSet();
-
-        while (start < end) {
-            int currSum = numbers.get(start) + numbers.get(end);
-            if ( prevSum.contains(currSum) ) {
-                System.out.println("numbers[" + start + "]=" + numbers.get(start) + " and numbers[" + end + "]=" + numbers.get(end));
-                return true;
-            } else {
-                prevSum.add(currSum);
-                if ( currSum > sum )
-                    end--;
-                else if ( currSum < sum )
-                    start++;
-            }
+    public void printSet(HashSet<Integer> comp) {
+        for ( Integer c : comp ) {
+            System.out.println(c);
         }
+    }
+
+    public boolean findHaveSum() {
+        HashSet<Integer> comp = new HashSet();
+
+        for ( Integer number : numbers ) {
+            if ( comp.contains(number) ) {
+                System.out.println(number + " and " + (sum-number));
+                printSet(comp);
+                return true;
+            }
+            comp.add(sum - number);
+        }
+        printSet(comp);
         return false;
     }
 
