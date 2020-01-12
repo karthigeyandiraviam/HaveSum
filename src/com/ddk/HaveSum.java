@@ -3,6 +3,14 @@ package com.ddk;
 import java.util.*;
 import java.io.*;
 
+/*
+** Given a list of numbers - any order
+** Given a number to represent Total
+** Find first 2 numbers whose sum is equal to Total
+** Example: [1,2,4,4] Total: 8 -> should print 4 and 4
+** Example: [-1,0,1,2] Total: 0 -> Should print -1 and 1
+** Example: [1,2,3,4] Total: 8 - should print nothing
+ */
 class HaveSum {
     List<Integer> numbers;
     Integer sum;
@@ -48,18 +56,32 @@ class HaveSum {
         }
     }
 
+    /*
+    ** Example: [1,2,4,4] Total: 8
+    ** Iter 1: number: 1, there's nothing in comp, add 8-1 to comp, comp: {7}
+    ** Iter 2: number: 2, 2 is not there in comp, add 8-2 to comp, comp: {7,6}
+    ** Iter 3: number: 4, 4 is not there in comp, add 8-4 to comp, comp: {7,6,4}
+    ** Iter 4: number: 4, 4 exist in comp - print 4 and (8-4) return true
+     */
+    /*
+     ** Example: [7,5,3,1,-1] Total: 4
+     ** Iter 1: number: 7, there's nothing in comp, add 4-7 to comp, comp: {-3}
+     ** Iter 2: number: 5, 5 is not there in comp, add 4-5 to comp, comp: {-3,-1}
+     ** Iter 3: number: 3, 3 is not there in comp, add 4-3 to comp, comp: {-3,-1,1}
+     ** Iter 4: number: 1, 1 exist in comp - print 1 and (4-1) return true
+     */
     public boolean findHaveSum() {
         HashSet<Integer> comp = new HashSet();
 
         for ( Integer number : numbers ) {
             if ( comp.contains(number) ) {
                 System.out.println(number + " and " + (sum-number));
-                printSet(comp);
+                //printSet(comp);
                 return true;
             }
             comp.add(sum - number);
         }
-        printSet(comp);
+        //printSet(comp);
         return false;
     }
 
