@@ -50,10 +50,9 @@ class HaveSum {
         System.out.println(sum);
     }
 
-    public void printSet(HashSet<Integer> comp) {
-        for ( Integer c : comp ) {
-            System.out.println(c);
-        }
+    public void printSet(HashMap<Integer, Integer> comp) {
+        comp.keySet().stream().forEach(a -> System.out.print(a + " "));
+        System.out.println();
     }
 
     /*
@@ -71,15 +70,16 @@ class HaveSum {
      ** Iter 4: number: 1, 1 exist in comp - print 1 and (4-1) return true
      */
     public boolean findHaveSum() {
-        HashSet<Integer> comp = new HashSet();
+        HashMap<Integer, Integer> comp = new HashMap();
 
-        for ( Integer number : numbers ) {
-            if ( comp.contains(number) ) {
-                System.out.println(number + " and " + (sum-number));
+        for ( int i = 0 ; i < numbers.size() ; i++ ) {
+            if ( comp.containsKey(numbers.get(i)) ) {
+                System.out.println(numbers.get(i) + " and " + (sum-numbers.get(i)));
                 //printSet(comp);
                 return true;
             }
-            comp.add(sum - number);
+            comp.put(sum - numbers.get(i), i);
+            printSet(comp);
         }
         //printSet(comp);
         return false;

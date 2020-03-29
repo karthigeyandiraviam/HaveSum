@@ -1,0 +1,102 @@
+// package whatever; // don't place package name!
+
+import java.io.*;
+
+/*
+"aaa" => "a"
+"coder" => "coder"
+"aardvark" => "ardvark"
+
+"aaa"
+*/
+
+/*
+class MyCode {
+  public static String deduplicateStr(String str) {
+    String retStr = "";
+    if ( str != null && str.length() > 0 ) {
+      retStr = "" + str.charAt(0);
+      for ( int i = 1 ; i < str.length() ; i++ ) {
+        if ( retStr.charAt(retStr.length()-1) != str.charAt(i) )
+          retStr += str.charAt(i);
+      }
+    }
+    return retStr;
+  }
+  
+  
+  
+	public static void main (String[] args) {
+		System.out.println(deduplicateStr("aardvark"));
+	}
+}
+*/
+
+/**
+* A rectangular boundary representing a portion
+* of an underlying image.
+* 'x' and 'y' are pixel positions representing the
+* bottom-left corner of the boundary.
+* 'width' and 'height' are the size of the boundary.
+*/
+
+/*
+0 0 0 0 0 0
+0 0 1 1 1 0
+0 0 1 1 1 0
+0 0 0 0 0 0
+
+
+--------------------
+|         |         |
+|         |         |
+|         |         |
+|    A    |         |
+|         |         |
+|         |         |
+|         |         |
+--------------------
+
+([2,2,2,3])
+*/
+
+public class BBoxMatch {
+
+   public static void main(String[] args) {
+       // ADD TEST CASES
+       assert(BBoxMatch.approxMatch(new BoundingBox(0, 0, 0, 0), new BoundingBox(0, 0, 0, 0)));
+   }
+
+   public static boolean approxMatch(BoundingBox bbox1, BoundingBox bbox2) {
+
+       // IMPLEMENT THIS
+       
+       // minHeight = new Double(Math.ceil(expHeight / 2)).intValue();
+       // minWidth = new Double(Math.ceil(expHWidth / 2)).intValue();
+       // minX = expWidth - minWidth;
+       // minY = expHeight - minHeight;
+       
+       if ( bbox1.x < bbox2.x &&
+       bbox1.y > bbox2.y &&
+       bbox1.height > bbox2.height &&
+       bbox1.width > bbox2.height)
+        return true;
+      
+       return true;
+   }
+
+   static class BoundingBox {
+       public int x;
+       public int y;
+       public int width;
+       public int height;
+
+       public BoundingBox(int x, int y, int width, int height) {
+           this.x = x;
+           this.y = y;
+           this.width = width;
+           this.height = height;
+       }
+   }
+}
+

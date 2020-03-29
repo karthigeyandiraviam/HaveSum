@@ -1,0 +1,82 @@
+/*
+# FizzBuzz
+# n input arg
+# 3, "Fizz"
+$ 5, "Buzz"
+# 7 "Netskope"
+# 3 and 7 "FizzNetskope"
+# 5 and 7 "BuzzNetskope"
+# 11 "Rocks"
+# 13 "Awesome"
+#..
+# 3 and 5, "FizzBuzz"
+#otherwise print the number
+
+# atoi("123" <type, str>) --> 123 <type, int>
+# atoi("abc" <type, str>) --> exception <type, int>
+*/
+
+import java.io.*;
+import java.util.*;
+
+/*
+ * To execute Java, please define "static void main" on a class
+ * named Solution.
+ *
+ * If you need more classes, simply define them inline.
+ */
+
+class Solution {  
+  public static void fizzBuzz(int n, Map<Integer, String> map) {
+    while ( n > 0 ) {
+      StringBuilder sb = new StringBuilder();
+      for ( Map.Entry<Integer, String> entry : map.entrySet() ) {
+        if ( n % entry.getKey() == 0 )
+          sb.append(entry.getValue());
+      }
+      if ( sb.length() == 0 )
+        sb.append(n);
+      n--;
+      System.out.println(sb.toString());
+    }
+  }
+  
+  public static int atoi(String str) throws Exception {
+    int n = 0;
+    if ( str != null && str.length() > 0 ) {
+      for ( int i = 0 ; i < str.length() ; i++ ) {
+        char c = str.charAt(i);
+        if ( c >= '0' && c <= '9' ) {
+            System.out.println((c - '0') * 10);
+            n = (c - '0') + n * 10;
+            System.out.println(n);
+        } else {
+          throw new Exception();
+        }
+      }
+    }
+    System.out.println(n);
+    return n;
+  }
+  
+  public static void main(String[] args) {
+    /*
+    Map<Integer, String> map = new HashMap<Integer, String>() {{
+      put(3, "Fizz");
+      put(5, "Buzz");
+      put(7, "Netskope");
+      put(11, "Rocks");
+      put(13, "Awesome");
+    }};
+    fizzBuzz(21, map);
+    */
+    
+    try {
+      System.out.println( atoi("123") == 123 );
+      System.out.println( atoi("123.5") == 123 );
+      //
+    } catch ( Exception e ) {
+      e.printStackTrace();
+    }
+  }
+}

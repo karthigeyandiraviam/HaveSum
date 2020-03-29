@@ -1,0 +1,1285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7d42a22-dc55-4041-a133-704a6f34d457" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_testng_testng_6_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/AddTwoFractions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/AddTwoLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/AdjacencyMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/ArrayManupulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/BinaryOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/BuildTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/CloudJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/CompareRank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/CountSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/DelayQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/DependencyGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/DiskSizeByFileType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/Fibanacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindFirstNonRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindImageInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindLargestMeeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindLastUniqueChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindMissingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindThreshold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/FlipCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/Followers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/FrequencyQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/FrogJmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/GenRand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/GeometricSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/IntegerToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/LetterCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/ListPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/LongestPloyndrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/LongestPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/LongestSubstr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/MagicSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/MaxArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/MaxToys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/Meetings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/MinimumBribe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/MirrorTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/MyCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/MyStackPeekPopMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/NotificationAlertCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/PerfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/ProductOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/QuickSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/RangeOfRecords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/RansomNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/RemoveNthNodeFromLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/ReverseInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/ReverseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/RomanToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/RotateWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/SerializationDeserializationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/SherlockAndAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/SmallestPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/SortMergeTwoUnsortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/SortPlayerObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/SortStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/SplitArrayToBuckets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/TwoStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/ZigZagStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/common/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/common/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/common/LLNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/common/LList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/common/MaxStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/minSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ddk/HaveSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ddk/HaveSum.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1509647796">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="groovy" value="1" />
+          <entry key="java" value="201" />
+          <entry key="js" value="2" />
+          <entry key="mdl" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="1" />
+          <entry key="JAVA" value="201" />
+          <entry key="JavaScript" value="2" />
+          <entry key="Model file" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="65427" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="65427" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ddk/ReverseStatement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="60" lean-forward="true" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>s[</find>
+      <find>Build</find>
+      <find>sort</find>
+      <find>count</find>
+      <find>sherlockAndAnagrams</find>
+      <find>ifailuhkqq</find>
+      <find>anagr</find>
+      <find>BigDecimal</find>
+      <find>doubleV</find>
+      <find>main</find>
+      <find>equals</find>
+      <find>hashCod</find>
+      <find>hashCode</find>
+      <find>a=&quot;&quot;</find>
+      <find>equals(Ob</find>
+      <find>equals(O</find>
+      <find>random</find>
+      <find>ListNode</find>
+      <find>cache</find>
+      <find>RANDOM</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Double</replace>
+      <replace>MyListNode</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/ddk/SherlockAndAnagrams.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/FindIslands.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/FindThreshold.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/FindLargestMeeting.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/DependencyGraph.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/AddTwoFractions.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/PerfTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/ListPerformance.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/ProductOfArray.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/RotateWords.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/MirrorTree.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/Fibanacci.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/ReverseInt.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/ZigZagStr.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/Meetings.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/SortMergeTwoUnsortedArrays.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/FindImageInMatrix.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/SerializationDeserializationDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/common/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/common/Address.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/RangeOfRecords.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/DelayObject.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/DelayQueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/HaveSum.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/MaxArea.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/common/MaxStack.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/StackImplementation.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/MyStackPeekPopMax.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/BuildTree.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/StackImplementations.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/common/LinkListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/common/LLNode.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/IntegerToRoman.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/common/LList.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/LongestSubstr.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/LongestSubstr_Netskope.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/FindMissingElement.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/RomanToInt.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/FindFirstNonRepeatingChar.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/LongestPrefix.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/LetterCombinations.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/RemoveNthNodeFromLast.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/MyCache.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/GenRand.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/Followers.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/SortStrings.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/ReverseStatement.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HaveSum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HaveSum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HaveSum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HaveSum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HaveSum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HaveSum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ddk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HaveSum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HaveSum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ddk" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HaveSum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585511014314" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ddk" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/ddk" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ReverseStatement">
+    <configuration name="Followers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ddk.Followers" />
+      <module name="HaveSum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ddk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenRand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ddk.GenRand" />
+      <module name="HaveSum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ddk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ddk.MyCache" />
+      <module name="HaveSum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ddk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ddk.ReverseStatement" />
+      <module name="HaveSum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ddk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ddk.SortStrings" />
+      <module name="HaveSum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ddk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductOfArray" type="TestNG" factoryName="TestNG">
+      <module name="HaveSum" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ddk" />
+      <option name="MAIN_CLASS_NAME" value="com.ddk.ProductOfArray" />
+      <option name="GROUP_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.ProductOfArray" />
+      <item itemvalue="Application.GenRand" />
+      <item itemvalue="Application.MyCache" />
+      <item itemvalue="Application.Followers" />
+      <item itemvalue="Application.SortStrings" />
+      <item itemvalue="Application.ReverseStatement" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReverseStatement" />
+        <item itemvalue="Application.SortStrings" />
+        <item itemvalue="Application.Followers" />
+        <item itemvalue="Application.GenRand" />
+        <item itemvalue="Application.MyCache" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7d42a22-dc55-4041-a133-704a6f34d457" name="Default Changelist" comment="" />
+      <created>1578806311799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578806311799</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ProductOfArray - 2020.03.03 at 16h 36m 04s.xml">
+      <configuration name="ProductOfArray" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ProductOfArray - 2020.03.03 at 16h 36m 14s.xml">
+      <configuration name="ProductOfArray" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ProductOfArray - 2020.03.03 at 16h 36m 26s.xml">
+      <configuration name="ProductOfArray" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ProductOfArray - 2020.03.03 at 16h 36m 40s.xml">
+      <configuration name="ProductOfArray" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ProductOfArray - 2020.03.03 at 16h 36m 52s.xml">
+      <configuration name="ProductOfArray" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ProductOfArray - 2020.03.03 at 16h 37m 28s.xml">
+      <configuration name="ProductOfArray" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ProductOfArray - 2020.03.03 at 16h 37m 54s.xml">
+      <configuration name="ProductOfArray" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ProductOfArray - 2020.03.03 at 18h 25m 28s.xml">
+      <configuration name="ProductOfArray" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ProductOfArray - 2020.03.03 at 18h 26m 39s.xml">
+      <configuration name="ProductOfArray" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ProductOfArray - 2020.03.03 at 18h 27m 00s.xml">
+      <configuration name="ProductOfArray" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32063884" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969433" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286026" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993865" weight="0.44104803" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969433" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5006135" side_tool="true" weight="0.40652174" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32934782" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286026" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="CodeMR Metrics" order="8" />
+      <window_info anchor="right" id="CodeMR" order="9" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/MagicSquare.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/CompareRank.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/CloudJump.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/MinimumBribe.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/BinaryOps.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/RotateArray.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/DiskSizeByFileType.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/FlipCoins.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/MergeSort.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/BubbleSort.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/QuickSort.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/QuickSort.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/NotificationAlertCount.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/SplitArrayToBuckets.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/NotificationAlertCount.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/FrequencyQuery.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/AddTwoLinkedList.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/LongestSubstr.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/FindThreshold.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/FindLargestMeeting.java</url>
+          <line>162</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/DependencyGraph.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/AddTwoFractions.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/ProductOfArray.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/ReverseInt.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/Meetings.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/MyStackPeekPopMax.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/MyStackPeekPopMax.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/FindMissingElement.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/FindMissingElement.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/RomanToInt.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/LongestPrefix.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/RemoveNthNodeFromLast.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/SortStrings.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/ReverseStatement.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>s2.charAt(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s1.charAt(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s1.charAt(i) &lt; s2.charAt(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>end &lt; meetings[i][1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>start &gt; meetings[i][0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>meetings[i][0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strArray.get(idx)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rev * 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rev * 10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/MirrorTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="92" selection-start-line="90" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/ZigZagStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="8" selection-start-line="6" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/AddTwoFractions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="41" selection-start-line="3" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1183">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/ReverseInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="10" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/FindImageInMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1773">
+          <caret line="214" column="34" selection-start-line="214" selection-start-column="34" selection-end-line="214" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/SortMergeTwoUnsortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/Meetings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="69" column="24" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/RangeOfRecords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/SerializationDeserializationDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="14" column="18" selection-start-line="14" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/common/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/common/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/DelayObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/DelayQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="71" column="27" lean-forward="true" selection-start-line="71" selection-start-column="27" selection-end-line="71" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/HaveSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/MaxArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/IntegerToRoman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/BuildTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/common/MaxStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/common/LList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="99" column="48" lean-forward="true" selection-start-line="99" selection-start-column="48" selection-end-line="99" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/common/LLNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/StackImplementations.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/MyStackPeekPopMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1294">
+          <caret line="94" column="41" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#1593#1594#0" expanded="true" />
+            <element signature="e#1618#1619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/FindLastUniqueChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/LongestSubstr_Netskope.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="1862" column="22" selection-start-line="1862" selection-start-column="22" selection-end-line="1862" selection-end-column="22" />
+          <folding>
+            <element signature="e#88329#88330#0" expanded="true" />
+            <element signature="e#88386#88387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/QuickSort1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/RomanToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="7" selection-start-line="20" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/FindLargestMeeting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/LongestPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="70" column="75" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/FindFirstNonRepeatingChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/FindMissingElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="120" column="84" selection-start-line="120" selection-start-column="84" selection-end-line="120" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/LongestSubstr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="5" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/DependencyGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codemr/HaveSum/html/main_report/html/js/d3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret column="54029" selection-start-column="54029" selection-end-column="54029" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codemr/AddTwoLinkedList/html/main_report/html/assets/js/jquery-1.10.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="1297" column="15" selection-start-line="1297" selection-start-column="15" selection-end-line="1297" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/MyCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="112" column="23" selection-start-line="112" selection-start-column="23" selection-end-line="112" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1742#1743#0" expanded="true" />
+            <element signature="e#1782#1783#0" expanded="true" />
+            <element signature="e#2576#2577#0" expanded="true" />
+            <element signature="e#2601#2602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/RemoveNthNodeFromLast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/LetterCombinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="52" selection-start-line="8" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="68" selection-start-line="63" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/AddTwoLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="105" column="34" lean-forward="true" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/Fibanacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/Followers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/GenRand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="1152" column="15" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/SortStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="58" column="31" lean-forward="true" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2550#2551#0" expanded="true" />
+            <element signature="e#2599#2600#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/ReverseStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="60" lean-forward="true" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.5.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HaveSum</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.google.code.gson:gson:2.8.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
