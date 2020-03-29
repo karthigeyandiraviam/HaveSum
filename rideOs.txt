@@ -1,0 +1,53 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+// int {5,3,2,4,2,4,6,8,9}
+
+class Records {
+    int startIndex;
+    int limit;
+}
+
+public class Solution {
+
+    Set<Integer> packets;
+    Iterator<Integer> packIterator;
+    
+    public Solution() {
+        packets = new TreeSet<Integer>();
+    }
+    
+    public void addPackets(Integer packet) {
+        packets.add(packet);
+    }
+    
+    public Set<Integer> getPackets() {
+        return packets;
+    }
+    
+    public Iterator<Integer> getPackIterator() {
+        if ( packIterator == null )
+            packIterator = packets.iterator();
+        return packIterator;
+    }
+
+    public Integer getNextPacket() {
+        return packIterator.next();
+    }
+
+    public static void main(String args[] ) throws Exception {
+        Solution problem = new Solution();
+        int[] inputPackets = {5,3,2,4,2,4,6,8,9};
+        for ( int inputPacket : inputPackets )
+            problem.addPackets(inputPacket);
+        
+        Iterator<Integer> packIterator = problem.getPackIterator();
+        while ( packIterator.hasNext() ) {
+            System.out.println(problem.getNextPacket());
+        }
+        System.out.println();
+    }
+}

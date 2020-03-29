@@ -1,0 +1,104 @@
+UI Node JS Web server
+Sevice a,b,c,d,e
+
+A,B,C - Java RestAPI connected to shared SQL
+D, E - RestAPI Kotlin JVM - Separate NoSQL
+
+Processor F - Listening to Kafka - Write to shared SQL
+
+UI -> A, B, C - RW
+Consumer Processor F - C, D, E - make transformation in Kafka
+
+Requirments:
+	Service need to have a Dockerfile, Jenkinsfile and update docker-compose-template
+
+Jenkinsfile:
+
+Library(pipeline:1.0)
+
+	stage {
+		checkout scm
+		set commit
+		image: serviceA:<job_name>_<build_num>_<timestamp>
+	}
+	stage {
+		generate docker compose file for unit/integration
+		generate docker compose file for e2e
+	}
+	parallel {
+	stage {
+		run unit
+	}
+
+	stage {
+		docker compose up of e2e
+		run e2e
+	}
+	}
+}
+
+docker-compose.yaml
+	serviceA:
+		environment:
+			a=1
+			b=2
+		depends_on:
+			postgres
+	postgres:
+		image:
+		environments:
+			port=3456
+			db=shareddb
+			db_user=user
+			db_password=pass
+
+docker-compose-template.yaml
+	serviceA:
+		environment:
+			a=1
+			b=2
+		depends_on:
+			postgres
+	serviceB:
+		depends_on:
+			postgres
+	serviceC:
+		depends_on:
+			postgres
+	postgres:
+		image:
+		environments:
+			port=3456
+			db=shareddb
+			db_user=user
+			db_password=pass
+	serviceD:
+		depends_on:
+			nosql_db1
+	serviceE:
+		depends_on:
+			nosql_db2
+	nosql_db1:
+		image:
+		environments:
+			port=3456
+			db=shareddb
+			db_user=user
+			db_password=pass
+	nosql_db2:
+		image:
+		environments:
+			port=3456
+			db=shareddb
+			db_user=user
+			db_password=pass
+	e2e:
+		depends_on:
+			serviceA
+			serviceB
+			serviceC
+			serviceD
+			serviceE
+			serviceF
+			kafka
+	

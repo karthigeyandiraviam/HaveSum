@@ -1,0 +1,135 @@
+import java.io.*;
+import java.util.*;
+import java.util.regex.Matcher; 
+import java.util.regex.Pattern; 
+
+/*
+ * To execute Java, please define "static void main" on a class
+ * named Solution.
+ *
+ * If you need more classes, simply define them inline.
+ */
+
+class Solution {
+  public static void main(String[] args) {
+//wordToBeFound = “love”
+// toBeSearched = “What the world needs now is love, sweet love”
+// toBeSearched1 = “What the world needs now is love, sweet loveable”
+    String wordToBeFound = "love";
+    String toBeSearched = "What the world needs now is love, sweet love";
+    Pattern p = Pattern.compile("[A-Za-z0-9]+");
+    Matcher m = p.matcher(toBeSearched);
+    int count = 0;
+    while ( m.find() ) {
+      if ( wordToBeFound.equals(m.group()) )
+          count++;
+    }
+    System.out.println(count);
+  }
+}
+
+
+/* 
+Your previous Plain Text content is preserved below:
+
+This is just a simple shared plaintext pad, with no execution capabilities.
+
+When you know what language you'd like to use for your interview,
+simply choose it from the dropdown in the top bar.
+
+You can also change the default language your pads are created with
+in your account settings: https://coderpad.io/settings
+
+Enjoy your interview!
+
+
+
+*** "Love"
+
+Assignment:
+
+Using programming language of your choice, write a method (or function) that takes two string parameters:
+* String:wordToBeFound
+* String:toBeSearched
+
+Returns: an integer count of finds for String:wordToBeFound in String:toBeSearched.
+
+
+Example 
+Input
+wordToBeFound = “love”
+toBeSearched = “What the world needs now is love, sweet love”
+
+loveFunction(wordToBeFound,toBeSearched) => 2
+
+
+
+
+*** Flaky
+
+// The code below is a Pseudo Code Selenium Problem:
+// We have found it to be  flaky: 
+//   * sometimes it works
+//   * sometimes it fails the findElement() for the form input element
+//   * sometimes the sendkeys() does not seem to "take" and then the click() fails to submit the form
+// TODO => make this reliable
+//
+//  * Please pseudo-code solution(s)
+//  * Please enter comments with the pseudo-code to explain 
+
+WebDriver driver = DriverManager.newDriver()
+
+driver.open(someUrl)
+// sleep 15
+// get status of page load and see page is loaded completely
+
+WebElement theForm = driver.findElement(By.someBy("formLocator"))
+//
+
+
+WebElement emailInputField = theForm.findElement(By.someBy("emailInputLocator"))
+
+theInputField.sendkeys("someone@somedomain.test")
+
+WebElement submitButton = theForm.findElement(By.someBy("submitButtonLocator"))
+
+submitButton.click()
+
+
+
+
+****"Soccer Foot Ball"
+By an odd set of circumstances, our normal software engineering efforts are interrupted so that we can create a very special Foot Ball (Soccer) ⚽ for the Paradise Youth Foot Ball Tournament.  
+
+You are assigned to prepare a set of quality checks (tests) for the Foot Ball prototype.
+
+How do you proceed?
+
+<<  please type short answers here>>
+Test Strategy - How are we testing soccer ball properies (unit tests), functional, stress test, performance test, longevity tests
+
+What are some of the tests that you would include?
+
+<<  please type short answers here>>
+Unit Test
+Leather (Type, Thickness, Patterns)
+Stitches (Threads)
+Inflator (Material)
+Mix of Colors
+
+Functional Test
+Whether ball can be inflated
+How much force we need to provide for inflating the ball?
+ - How many times we need to pump
+After inflation, how long does the ball stays inflated in ideal condition
+
+Stress Test
+
+Performance Test
+
+Longevity Test
+
+Look and Feel Test
+Visibility of colors during different day light conditions
+
+ */

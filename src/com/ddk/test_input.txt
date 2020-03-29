@@ -1,0 +1,6 @@
+--2020-02-06 21:16:56--  https://hr-testcases-us-east-1.s3.amazonaws.com/71636/input07.txt%5C?AWSAccessKeyId%5C=AKIAJ4WZFDFQTZRGO3QA%5C&Expires%5C=1581059635%5C&Signature%5C=rs%2BH9wnr0UigUbt5cs1x7jhL1%2Bk%3D%5C&response-content-type%5C=text%2Fplain
+Resolving hr-testcases-us-east-1.s3.amazonaws.com (hr-testcases-us-east-1.s3.amazonaws.com)... 52.216.178.203
+Connecting to hr-testcases-us-east-1.s3.amazonaws.com (hr-testcases-us-east-1.s3.amazonaws.com)|52.216.178.203|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-06 21:16:57 ERROR 400: Bad Request.
+

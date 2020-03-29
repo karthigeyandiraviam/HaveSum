@@ -1,0 +1,37 @@
+Implement a least recently used cache of size m, which cache has both get and set in constant time O(1).
+
+"cat" -> "mouse" -> "cow" -> "new"
+
+HashMap<String, Element> lookup = new HashMap<>();
+class Element {
+	String data;
+	Element next;
+	
+	public Element(String data) {
+		this.data = data;
+		lookup.add(data, this);
+	}
+	
+	public Element get(String data) {
+		if ( lookup.containsKey(data) )
+			return lookup.get(data);
+	}
+	
+	public Element add(String data) {
+		if (lookup.size() == 3) {
+			remove()
+		}
+		this.next = new Element(data);
+		return next;
+	}
+	
+	public void remove(String data) {
+		if ( lookup.containsKey() ) {
+			Ele
+		}
+	}
+}
+
+
+Element linkedElements = new Element("cat");
+linkedElement

@@ -1,0 +1,55 @@
+import java.io.*;
+import java.util.*;
+
+/*
+ * To execute Java, please define "static void main" on a class
+ * named Solution.
+ *
+ * If you need more classes, simply define them inline.
+ */
+
+class Solution {
+  public static int[] twoTrains(int[] train1, int[] train2, int myarrivaltime) {
+    List<Integer> schedule = new ArrayList<>();
+    Map<Integer, Integer> sch1 = new Hashtable<>();
+    for ( int s : train1 ) {
+      if ( s > myarrivaltime ) {
+        //System.out.println(s);
+        sch1.put(s, sch1.getOrDefault(s, 1));
+      }
+    }
+
+    for ( int s : train2 ) {
+      if ( sch1.containsKey(s) )
+        schedule.add(s);
+    }
+    return schedule.stream().mapToInt(Integer::valueOf).toArray();
+  }
+  
+  public static void main(String[] args) {
+    int[] train1 = {360, 580, 970, 220, 1100};
+    int[] train2 = {220, 630, 770, 580, 1250};
+    int[] schedule = twoTrains(train1, train2, 100);
+    for ( int s : schedule ) {
+      System.out.println(s);
+    }
+  }
+}
+
+
+
+/*
+Two trains are arriving at a train station many times during the course of the day.  These trains are represented by unsorted Int Arrays with the contents being Integers representing the minutes from midnight that the train will be arriving at the station. There are 1440 minutes in a day, so 1 AM would be 60 and 1:10 PM would be 790.  For an example of this we usually write something along the lines of the following on the board to represent the schedule:
+  int[] train1 = [360, 580, 970, 220, 1100]
+  int[] train2 = [220, 630, 770, 360, 1250]
+
+
+Write a function that takes in two trains schedules like the above and returns another Integer Array that has the times that both trains will be in the station. 
+
+This is in JAVA, but please feel free to use any language:
+
+public int[] twoTrains(int[] train1, int[] train2) {
+  
+}
+
+*/

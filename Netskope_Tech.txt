@@ -1,0 +1,72 @@
+/*
+Given a string, find the length of the longest substring without repeating characters.
+
+Example 1:
+
+Input: "abcabcbb"
+Output: 3 
+Explanation: The answer is "abc", with the length of 3. 
+Example 2:
+
+Input: "bbbbb"
+Output: 1
+Explanation: The answer is "b", with the length of 1.
+Example 3:
+
+Input: "pwwkew"
+Output: 3
+Explanation: The answer is "wke", with the length of 3. 
+             Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
+*/
+
+import java.io.*;
+import java.util.*;
+
+/*
+ * To execute Java, please define "static void main" on a class
+ * named Solution.
+ *
+ * If you need more classes, simply define them inline.
+ */
+
+class Solution {
+  public static int findLongestSubStr(String str) {
+    TreeSet<Integer> count = new TreeSet<Integer>();
+    List<Character> word = new ArrayList<>();
+    for ( int i = 0 ; i < str.length() ; i++ ) {
+      if ( word.contains(str.charAt(i)) ) {
+        count.add(word.size());
+        word = new ArrayList<>();
+      }
+      word.add(str.charAt(i));
+    }
+    return count.last().intValue();
+  }
+  
+  public static void main(String[] args) {
+    System.out.println(findLongestSubStr("abcabcbb"));
+    System.out.println(findLongestSubStr("bbbbb"));
+    System.out.println(findLongestSubStr("pwwkew"));
+  }
+}
+
+/*
+Given a string, find the length of the longest substring without repeating characters.
+
+Example 1:
+
+Input: "abcabcbb"
+Output: 3 
+Explanation: The answer is "abc", with the length of 3. 
+Example 2:
+
+Input: "bbbbb"
+Output: 1
+Explanation: The answer is "b", with the length of 1.
+Example 3:
+
+Input: "pwwkew"
+Output: 3
+Explanation: The answer is "wke", with the length of 3. 
+             Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
+             */
