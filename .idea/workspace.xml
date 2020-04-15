@@ -2,89 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7d42a22-dc55-4041-a133-704a6f34d457" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_testng_testng_6_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/AddTwoFractions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/AddTwoLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/AdjacencyMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/ArrayManupulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/BinaryOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/BuildTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/CloudJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/CompareRank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/CountSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/DelayQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/DependencyGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/DiskSizeByFileType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/Fibanacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindFirstNonRepeatingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindImageInMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindLargestMeeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindLastUniqueChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindMissingElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindOddNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/FindThreshold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/FlipCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/Followers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/FrequencyQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/FrogJmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/GenRand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/GeometricSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/IntegerToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/LetterCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/ListPerformance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/LongestPloyndrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/LongestPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/LongestSubstr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/MagicSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/MaxArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/MaxToys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/Meetings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/MinimumBribe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/MirrorTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/MyCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/MyStackPeekPopMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/NotificationAlertCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/PerfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/ProductOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/QuickSort1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/RangeOfRecords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/RansomNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/RemoveNthNodeFromLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/ReverseInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/ReverseStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/RomanToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/RotateWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/SerializationDeserializationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/SherlockAndAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/SmallestPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/SortMergeTwoUnsortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/SortPlayerObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/SortStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/SplitArrayToBuckets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/TwoStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/ZigZagStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/common/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/common/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/common/LLNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/common/LList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/common/MaxStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/minSwap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ddk/HaveSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ddk/HaveSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/GenerateParathensis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/GradeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/MergeTwoSortedLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ddk/StrMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ddk/AddTwoFractions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ddk/AddTwoFractions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ddk/SerializationDeserializationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ddk/SerializationDeserializationDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,28 +21,33 @@
     <session id="1509647796">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="groovy" value="1" />
-          <entry key="java" value="201" />
+          <entry key="java" value="228" />
           <entry key="js" value="2" />
           <entry key="mdl" value="3" />
         </counts>
@@ -126,30 +55,33 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="201" />
+          <entry key="JAVA" value="228" />
           <entry key="JavaScript" value="2" />
           <entry key="Model file" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="65427" />
+          <entry key="java" value="68955" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="65427" />
+          <entry key="JAVA" value="68955" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ddk/ReverseStatement.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ddk/GenerateParathensis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="60" lean-forward="true" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+            <state relative-caret-position="351">
+              <caret line="36" column="51" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -183,14 +115,19 @@
       <find>equals(Ob</find>
       <find>equals(O</find>
       <find>random</find>
-      <find>ListNode</find>
       <find>cache</find>
       <find>RANDOM</find>
+      <find>MAX_V</find>
+      <find>ListNode</find>
+      <find>str1.charAt(s1Idx)</find>
     </findStrings>
     <replaceStrings>
       <replace>Double</replace>
       <replace>MyListNode</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/com/ddk</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -199,14 +136,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ddk/SherlockAndAnagrams.java" />
-        <option value="$PROJECT_DIR$/src/com/ddk/ReverseString.java" />
-        <option value="$PROJECT_DIR$/src/com/ddk/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/com/ddk/FindIslands.java" />
-        <option value="$PROJECT_DIR$/src/com/ddk/FindThreshold.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/FindLargestMeeting.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/DependencyGraph.java" />
-        <option value="$PROJECT_DIR$/src/com/ddk/AddTwoFractions.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/PerfTest.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/ListPerformance.java" />
@@ -219,7 +150,6 @@
         <option value="$PROJECT_DIR$/src/com/ddk/Meetings.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/SortMergeTwoUnsortedArrays.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/FindImageInMatrix.java" />
-        <option value="$PROJECT_DIR$/src/com/ddk/SerializationDeserializationDemo.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/common/Demo.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/common/Address.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/RangeOfRecords.java" />
@@ -250,6 +180,13 @@
         <option value="$PROJECT_DIR$/src/com/ddk/Followers.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/SortStrings.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/ReverseStatement.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/GradeSortt.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/SerializationDeserializationDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/GradeSort.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/AddTwoFractions.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/MergeTwoSortedLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/StrMatch.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/GenerateParathensis.java" />
       </list>
     </option>
   </component>
@@ -263,6 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -283,13 +221,6 @@
             </path>
             <path>
               <item name="HaveSum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HaveSum" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ddk" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HaveSum" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -297,14 +228,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585511014314" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586737814321" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -331,9 +261,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseStatement">
-    <configuration name="Followers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ddk.Followers" />
+  <component name="RunManager" selected="Application.GenerateParathensis">
+    <configuration name="AddTwoFractions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ddk.AddTwoFractions" />
       <module name="HaveSum" />
       <extension name="coverage">
         <pattern>
@@ -345,8 +275,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenRand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ddk.GenRand" />
+    <configuration name="GenerateParathensis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ddk.GenerateParathensis" />
       <module name="HaveSum" />
       <extension name="coverage">
         <pattern>
@@ -358,8 +288,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ddk.MyCache" />
+    <configuration name="MergeTwoSortedLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ddk.MergeTwoSortedLinkedList" />
       <module name="HaveSum" />
       <extension name="coverage">
         <pattern>
@@ -371,8 +301,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ddk.ReverseStatement" />
+    <configuration name="SerializationDeserializationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ddk.SerializationDeserializationDemo" />
       <module name="HaveSum" />
       <extension name="coverage">
         <pattern>
@@ -384,8 +314,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ddk.SortStrings" />
+    <configuration name="StrMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ddk.StrMatch" />
       <module name="HaveSum" />
       <extension name="coverage">
         <pattern>
@@ -417,19 +347,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.ProductOfArray" />
-      <item itemvalue="Application.GenRand" />
-      <item itemvalue="Application.MyCache" />
-      <item itemvalue="Application.Followers" />
-      <item itemvalue="Application.SortStrings" />
-      <item itemvalue="Application.ReverseStatement" />
+      <item itemvalue="Application.SerializationDeserializationDemo" />
+      <item itemvalue="Application.AddTwoFractions" />
+      <item itemvalue="Application.MergeTwoSortedLinkedList" />
+      <item itemvalue="Application.StrMatch" />
+      <item itemvalue="Application.GenerateParathensis" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseStatement" />
-        <item itemvalue="Application.SortStrings" />
-        <item itemvalue="Application.Followers" />
-        <item itemvalue="Application.GenRand" />
-        <item itemvalue="Application.MyCache" />
+        <item itemvalue="Application.GenerateParathensis" />
+        <item itemvalue="Application.StrMatch" />
+        <item itemvalue="Application.MergeTwoSortedLinkedList" />
+        <item itemvalue="Application.AddTwoFractions" />
+        <item itemvalue="Application.SerializationDeserializationDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -482,7 +412,7 @@
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32063884" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2997543" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -500,6 +430,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5006135" side_tool="true" weight="0.40652174" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32934782" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286026" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -722,11 +653,58 @@
           <properties />
           <option name="timeStamp" value="105" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/GradeSort.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/MergeTwoSortedLinkedList.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/StrMatch.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ddk/StrMatch.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="str1.charAt(s1Idx)" language="JAVA" />
+        <watch expression="str2.charAt(s2Idx)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>str2.charAt(s2Idx)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str1.charAt(s1Idx)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>str1.length()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>s2.charAt(i)</expression-string>
         <language-id>JAVA</language-id>
@@ -767,130 +745,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>rev * 10</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-173">
-          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/MirrorTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="92" selection-start-line="90" selection-end-line="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/ZigZagStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="8" selection-start-line="6" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/AddTwoFractions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="41" selection-start-line="3" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1183">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/ReverseInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" selection-start-line="10" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/FindImageInMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1773">
-          <caret line="214" column="34" selection-start-line="214" selection-start-column="34" selection-end-line="214" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/SortMergeTwoUnsortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/Meetings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="69" column="24" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/RangeOfRecords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/SerializationDeserializationDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="14" column="18" selection-start-line="14" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/common/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/common/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/DelayObject.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/DelayQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="71" column="27" lean-forward="true" selection-start-line="71" selection-start-column="27" selection-end-line="71" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/HaveSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/MaxArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ddk/IntegerToRoman.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -927,22 +784,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ddk/StackImplementations.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/MyStackPeekPopMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1294">
-          <caret line="94" column="41" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#1593#1594#0" expanded="true" />
-            <element signature="e#1618#1619#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ddk/FindLastUniqueChar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -955,10 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="1862" column="22" selection-start-line="1862" selection-start-column="22" selection-end-line="1862" selection-end-column="22" />
-          <folding>
-            <element signature="e#88329#88330#0" expanded="true" />
-            <element signature="e#88386#88387#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1056,27 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="112" column="23" selection-start-line="112" selection-start-column="23" selection-end-line="112" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
-            <element signature="e#955#956#0" expanded="true" />
-            <element signature="e#1008#1009#0" expanded="true" />
-            <element signature="e#1030#1031#0" expanded="true" />
-            <element signature="e#1742#1743#0" expanded="true" />
-            <element signature="e#1782#1783#0" expanded="true" />
-            <element signature="e#2576#2577#0" expanded="true" />
-            <element signature="e#2601#2602#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1091,37 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
           <caret line="52" selection-start-line="8" selection-end-line="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/ThreeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="68" selection-start-line="63" selection-end-line="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/AddTwoLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="105" column="34" lean-forward="true" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/Fibanacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1129,12 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
           <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1142,9 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
           <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1174,10 +950,171 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/MyStackPeekPopMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="64" column="18" lean-forward="true" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1573#1574#0" expanded="true" />
+            <element signature="e#1615#1616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="48" selection-start-line="11" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/ListPerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/AddTwoFractions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/GradeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="109" column="10" selection-start-line="109" selection-start-column="10" selection-end-line="109" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/SerializationDeserializationDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/common/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/MergeTwoSortedLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="77" column="26" selection-start-line="77" selection-end-line="78" />
+          <folding>
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/AddTwoLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/StrMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="68" lean-forward="true" selection-start-line="2" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/LongestPloyndrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/minSwap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-371">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/ReverseInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ddk/ReverseStatement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="60" lean-forward="true" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/SortMergeTwoUnsortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="68" selection-start-line="63" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/TwoStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/ZigZagStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/ProductOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-164">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/Fibanacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/GenerateParathensis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="36" column="51" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

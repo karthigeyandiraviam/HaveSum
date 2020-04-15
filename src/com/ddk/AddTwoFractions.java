@@ -22,7 +22,7 @@ public class AddTwoFractions {
         this.sum = new Integer[2];
         if ( this.fraction1[1] == this.fraction2[1] ) {
             this.sum[0] = this.fraction1[0] + this.fraction2[0];
-            this.sum[1] = this.fraction2[0];
+            this.sum[1] = this.fraction2[1];
         } else {
             this.sum[1] = this.fraction1[1] * this.fraction2[1];
             this.sum[0] = this.fraction1[0] * (this.sum[1] / this.fraction1[1]) +
