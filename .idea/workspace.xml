@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7d42a22-dc55-4041-a133-704a6f34d457" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/GenerateParathensis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/GradeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/MergeTwoSortedLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddk/StrMatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ddk/AddTwoFractions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ddk/AddTwoFractions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ddk/SerializationDeserializationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ddk/SerializationDeserializationDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,35 +40,40 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="Netskope_Question" value="1" />
+          <entry key="Percipient_TechScreen" value="1" />
+          <entry key="PowerOfTwo_Problem" value="1" />
           <entry key="groovy" value="1" />
-          <entry key="java" value="228" />
+          <entry key="java" value="229" />
           <entry key="js" value="2" />
           <entry key="mdl" value="3" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="228" />
+          <entry key="JAVA" value="229" />
           <entry key="JavaScript" value="2" />
           <entry key="Model file" value="3" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="68955" />
+          <entry key="java" value="68985" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="68955" />
+          <entry key="JAVA" value="68985" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ddk/GenerateParathensis.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="351">
@@ -82,6 +81,22 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Percipient_TechScreen">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1245" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ddk/PowerOfTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="45" selection-start-line="40" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -136,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ddk/FindLargestMeeting.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/DependencyGraph.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/PerfTest.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/InsertionSort.java" />
@@ -187,6 +201,7 @@
         <option value="$PROJECT_DIR$/src/com/ddk/MergeTwoSortedLinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/StrMatch.java" />
         <option value="$PROJECT_DIR$/src/com/ddk/GenerateParathensis.java" />
+        <option value="$PROJECT_DIR$/src/com/ddk/PowerOfTwo.java" />
       </list>
     </option>
   </component>
@@ -234,7 +249,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586737814321" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586915128414" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -261,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenerateParathensis">
+  <component name="RunManager" selected="Application.PowerOfTwo">
     <configuration name="AddTwoFractions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ddk.AddTwoFractions" />
       <module name="HaveSum" />
@@ -301,8 +316,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializationDeserializationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ddk.SerializationDeserializationDemo" />
+    <configuration name="PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ddk.PowerOfTwo" />
       <module name="HaveSum" />
       <extension name="coverage">
         <pattern>
@@ -347,19 +362,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.ProductOfArray" />
-      <item itemvalue="Application.SerializationDeserializationDemo" />
       <item itemvalue="Application.AddTwoFractions" />
       <item itemvalue="Application.MergeTwoSortedLinkedList" />
       <item itemvalue="Application.StrMatch" />
       <item itemvalue="Application.GenerateParathensis" />
+      <item itemvalue="Application.PowerOfTwo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PowerOfTwo" />
         <item itemvalue="Application.GenerateParathensis" />
         <item itemvalue="Application.StrMatch" />
         <item itemvalue="Application.MergeTwoSortedLinkedList" />
         <item itemvalue="Application.AddTwoFractions" />
-        <item itemvalue="Application.SerializationDeserializationDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -748,41 +763,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/IntegerToRoman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/BuildTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/common/MaxStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="50" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/common/LList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="99" column="48" lean-forward="true" selection-start-line="99" selection-start-column="48" selection-end-line="99" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ddk/common/LLNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ddk/StackImplementations.java" />
     <entry file="file://$PROJECT_DIR$/src/com/ddk/FindLastUniqueChar.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1108,6 +1088,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Branch_CICD_Design.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Netskope_Question">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-993" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PowerOfTwo_Problem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-728" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ddk/GenerateParathensis.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -1115,6 +1108,18 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Percipient_TechScreen">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1245" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ddk/PowerOfTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="45" selection-start-line="40" selection-end-line="45" />
         </state>
       </provider>
     </entry>
